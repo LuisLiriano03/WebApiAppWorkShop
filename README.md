@@ -4,7 +4,7 @@ Este proyecto consiste en una API desarrollada con ASP.NET Core Web API 7.0, dis
 
 **Capas del Proyecto**
 
-1. **ProyectoGestion.API: **
+1. **ProyectoGestion.API:**
 
 	- **Proyecto principal:** Implementa la API utilizando ASP.NET Core Web API 7.0.
 
